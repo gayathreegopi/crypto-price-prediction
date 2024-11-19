@@ -1,4 +1,4 @@
-# Project Title: Crypto Price Prediction Using Sentiment and Financial Data
+# Crypto Price Prediction Using Sentiment and Financial Data (in progress)
 This project is being done as a collaborative final project for the Advanced Machine Learning class at UT Austin.
 
 ## Project Overview
