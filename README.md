@@ -1,4 +1,5 @@
 # Project Title: Crypto Price Prediction Using Sentiment and Financial Data
+This project is being done as a collaborative final project for the Advanced Machine Learning class at UT Austin.
 
 ## Project Overview
 This project involves developing a predictive model for cryptocurrency prices, specifically focusing on Bitcoin. The crypto market is known for its high volatility, influenced by a wide range of factors, from macroeconomic events to investor sentiment. By leveraging both traditional financial metrics and real-time sentiment analysis from social media platforms like Reddit, this project aims to offer a comprehensive approach to forecasting price movements. We built models using time series data and integrated community-driven insights to capture both market trends and the social dynamics that impact cryptocurrency prices.
