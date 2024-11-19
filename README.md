@@ -42,5 +42,4 @@ Review model performance metrics and visualizations to understand how financial 
 
 ## Contact
 For questions or further information, please contact:
-* Email: gayathreegopi@utexas.edu
 * LinkedIn: linkedin.com/in/gayathreegopi
