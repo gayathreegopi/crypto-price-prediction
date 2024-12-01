@@ -42,4 +42,4 @@ Review model performance metrics and visualizations to understand how financial 
 
 ## Contact
 For questions or further information, please contact:
-* LinkedIn: linkedin.com/in/gayathreegopi
+* LinkedIn: [linkedin.com/in/gayathreegopi](https://linkedin.com/in/gayathreegopi)
