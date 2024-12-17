@@ -1,4 +1,4 @@
-# Crypto Price Prediction Using Sentiment and Financial Data (in progress)
+# Predicting Bitcoin Returns Using Market and Sentiment Data
 This project is being done as a collaborative final project for the Advanced Machine Learning class at UT Austin.
 
 ## Project Overview
